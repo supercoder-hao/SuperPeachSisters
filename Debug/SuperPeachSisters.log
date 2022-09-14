@@ -1,0 +1,21 @@
+﻿  Actor.cpp
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\Actor.cpp(191,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\Actor.cpp(197,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\Actor.cpp(203,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(580,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(580,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(593,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(593,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(597,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(597,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(603,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(603,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(608,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(608,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\haoxu\Downloads\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(614,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SuperPeachSisters.vcxproj -> C:\Users\haoxu\Downloads\SuperPeachSisters\Debug\SuperPeachSisters.exe
