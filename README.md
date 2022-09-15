@@ -6,6 +6,8 @@ This version of the the game files have been tested to function on Visual Studio
 Details regarding the project specifications or documentation of my progress can be found in the appropriate .pdf documents.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99045459/190037358-485b8196-1c03-4a82-a185-ea35975eaa89.png" width="921" height="927">
-  
+</p>
+
+<p align="center">
   A screenshot of the game.
 </p>
